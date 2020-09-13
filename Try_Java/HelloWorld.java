@@ -16,6 +16,16 @@ public class HelloWorld {
 /**
  * 访问控制修饰符 : default, public , protected, private
  * 非访问控制修饰符 : final, abstract, static, synchronized
+ * <p>
+ * Java 中主要有如下几种类型的变量
+ * 局部变量
+ * 类变量（静态变量）
+ * 成员变量（非静态变量）
+ * <p>
+ * Java 中主要有如下几种类型的变量
+ * 局部变量
+ * 类变量（静态变量）
+ * 成员变量（非静态变量）
  */
 
 /**

@@ -1,3 +1,4 @@
+package com.other;
 
 public class MultiDimensionArray {
     public static void main(String[] args) {

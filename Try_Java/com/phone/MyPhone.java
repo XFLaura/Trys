@@ -1,4 +1,4 @@
-package com;
+package com.phone;
 
 import com.phone.parts.*;
 

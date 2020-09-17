@@ -1,3 +1,5 @@
+package com.other;
+
 public class Dog{
     String breed;
     int age;

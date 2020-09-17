@@ -1,3 +1,5 @@
+package com.other;
+
 import java.util.*;
 import java.math.BigInteger;
 

@@ -1,3 +1,5 @@
+package com.other;
+
 import java.util.Scanner;
 /**
  * 各种成绩要求

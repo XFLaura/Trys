@@ -1,3 +1,5 @@
+package com.merchandise;
+
 public class CheckBeforeUse {
     public static void main(String[] args) {
         // 数组在创建出来之后，会按照类型给数组中的每个元素赋缺省值。

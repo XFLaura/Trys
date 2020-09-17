@@ -1,3 +1,5 @@
+package com.other;
+
 public class Message {
 
     public static void main(String[] args){

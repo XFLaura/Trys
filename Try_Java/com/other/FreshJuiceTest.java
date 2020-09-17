@@ -1,3 +1,5 @@
+package com.other;
+
 class FreshJuice {
     //enum 枚举类型
     enum FreshJuiceSize{ SMALL, MEDIUM , LARGE }

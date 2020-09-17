@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package com.merchandise;
 
 public class MerchandiseUsingVariable {
     public static void main(String[] args) {

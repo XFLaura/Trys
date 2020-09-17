@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package com.other;
 public class WuZiQiHuaQiPan {
     public static void main(String[] args) {
         // 代表不同的角色
@@ -6,7 +6,6 @@ public class WuZiQiHuaQiPan {
         int white = 1;
         int empty = 2;
 
-public class WuZiQiPan {
         // 不同的角色的不同的棋子字符
         char[] qizi = new char[3];
         qizi[0] = '●';

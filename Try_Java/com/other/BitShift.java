@@ -1,3 +1,4 @@
+package com.other;
 
 import java.math.BigInteger;
 import java.util.Scanner;

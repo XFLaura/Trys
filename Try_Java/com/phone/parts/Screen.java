@@ -1,4 +1,7 @@
+
+package com.phone.parts;
+
 public class Screen {
-    double size;
-    String producer;
+    public double size;
+    public String producer;
 }
